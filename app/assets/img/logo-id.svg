@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="55px" height="48px" viewBox="0 0 55 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(-11.000000, -20.000000)">
+              <g id="Icon">
+              <polyline id="Fill-3844" fill="#7A7A7A" transform="translate(41.416799, 37.589451) rotate(-60.000000) translate(-41.416799, -37.589451) " points="28.5513551 47.4671899 39.1915246 28.5320895 35.1580006 21.235285 16.8925499 53.9436167 61.5383548 53.9436167 65.9410489 47.4671899 28.5513551 47.4671899"></polyline>
+              <polyline id="Fill-3845" fill="#969696" transform="translate(31.058717, 40.906942) rotate(-60.000000) translate(-31.058717, -40.906942) " points="51.9427028 51.6201969 32.7575825 17.2411594 10.174731 58.0962981 14.5865403 64.5727249 32.8519911 31.8643932 43.7721308 51.6201969 51.9427028 51.6201969"></polyline>
+              <polyline id="Fill-3846" fill="#CDCDCD" transform="translate(35.191254, 27.272750) rotate(-60.000000) translate(-35.191254, -27.272750) " points="31.1468246 6.8451809 23.0162948 6.8451809 42.1294693 41.2242185 20.1361829 41.2365892 16.4887572 47.7003197 53.8937517 47.7003197 31.1468246 6.8451809"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
